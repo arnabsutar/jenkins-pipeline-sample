@@ -1,5 +1,6 @@
 node{
     stage 'Stage Hello'
     echo 'Say Hello'
-    date
+    stage 'Stage Step2'
+    echo 'this is a simple step 2'
 }
